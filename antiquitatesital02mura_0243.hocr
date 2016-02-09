@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "antiquitatesital02mura_0243.png"; bbox 0 0 2185 3027; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 221 811 1850 947">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 221 811 1850 947">
+     <span class='ocr_line' id='line_1_1' title="bbox 221 811 1850 947; baseline 0.003 -5"><span class='ocrx_word' id='word_1_1' title='bbox 221 813 501 946; x_wconf 86' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 606 811 1850 947; x_wconf 86' lang='lat' dir='ltr'>HOMINIBUS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 624 1025 1451 1139">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 624 1025 1451 1139">
+     <span class='ocr_line' id='line_1_2' title="bbox 624 1025 1451 1139; baseline 0.001 -3"><span class='ocrx_word' id='word_1_3' title='bbox 624 1025 1451 1139; x_wconf 54' lang='lat' dir='ltr'>LIBERI&amp;-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 299 1208 1780 1309">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 299 1208 1780 1309">
+     <span class='ocr_line' id='line_1_3' title="bbox 299 1208 1780 1309; baseline -0.001 -2"><span class='ocrx_word' id='word_1_4' title='bbox 299 1212 516 1307; x_wconf 88' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 620 1208 1780 1309; x_wconf 55' lang='grc' dir='ltr'><strong>ΑΚΙΜΑΝΝΙΞΑ1</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 407 1384 1669 1603">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 407 1384 1669 1603">
+     <span class='ocr_line' id='line_1_4' title="bbox 485 1384 1596 1468; baseline -0.005 0"><span class='ocrx_word' id='word_1_6' title='bbox 485 1384 1596 1468; x_wconf 86' lang='lat' dir='ltr'><strong>DISSERTATIO</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 407 1539 1669 1603; baseline 0.003 -5"><span class='ocrx_word' id='word_1_7' title='bbox 407 1539 1669 1603; x_wconf 81' lang='lat' dir='ltr'><strong>TERTIADECIMA.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
